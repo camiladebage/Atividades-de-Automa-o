@@ -1,0 +1,3 @@
+Se quiser INSERIR um dado, deve preencher a planilha, e deixar as outras duas sem valores
+Se quiser DELETAR um dado, deve preencher a planilha, e deixar as outras duas sem valores
+Se quiser ATUALIZAR um dado, deve preencher a planilha, e deixar as outras duas sem valores
