@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressaoRegular", "ExpressaoRegular\ExpressaoRegular.csproj", "{05872908-6032-4978-8CD8-9688FD564140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05872908-6032-4978-8CD8-9688FD564140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05872908-6032-4978-8CD8-9688FD564140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05872908-6032-4978-8CD8-9688FD564140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05872908-6032-4978-8CD8-9688FD564140}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {829DC6B4-B5AE-4072-A5E2-0A07C73E43C4}
+	EndGlobalSection
+EndGlobal
